@@ -1126,6 +1126,10 @@ body {
   .hero-title {
     font-size: clamp(2.5rem, 10vw, 4rem);
   }
+
+  /* .hero-stats .container-xl .row .col {
+   
+  } */
 }
 @media (max-width: 767px) {
   .rera-box {
